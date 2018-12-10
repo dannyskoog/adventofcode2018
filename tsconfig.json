@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"strict": true,
+		"module": "commonjs",
+		"sourceMap": true,
+		"target": "es6",
+		"lib": [
+			"esnext",
+			"dom"
+		]
+	}
+}
